@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Fitness"
+        tools:targetApi="31">
+        <activity
+            android:name=".signup"
+            android:exported="true" >
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".CalendarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".after10"
+            android:exported="false" />
+        <activity
+            android:name=".after9"
+            android:exported="false" />
+        <activity
+            android:name=".after8"
+            android:exported="false" />
+        <activity
+            android:name=".after7"
+            android:exported="false" />
+        <activity
+            android:name=".after6"
+            android:exported="false" />
+        <activity
+            android:name=".after5"
+            android:exported="false" />
+        <activity
+            android:name=".after4"
+            android:exported="false" />
+        <activity
+            android:name=".after3"
+            android:exported="false" />
+        <activity
+            android:name=".after2"
+            android:exported="false" />
+        <activity
+            android:name=".after1"
+            android:exported="false" />
+        <activity
+            android:name=".before10"
+            android:exported="false" />
+        <activity
+            android:name=".before9"
+            android:exported="false" />
+        <activity
+            android:name=".before8"
+            android:exported="false" />
+        <activity
+            android:name=".before7"
+            android:exported="false" />
+        <activity
+            android:name=".before6"
+            android:exported="false" />
+        <activity
+            android:name=".before5"
+            android:exported="false" />
+        <activity
+            android:name=".before4"
+            android:exported="false" />
+        <activity
+            android:name=".before3"
+            android:exported="false" />
+        <activity
+            android:name=".before2"
+            android:exported="false" />
+        <activity
+            android:name=".before1"
+            android:exported="false" />
+        <activity
+            android:name=".after_second"
+            android:exported="false" />
+        <activity
+            android:name=".before_second"
+            android:exported="false" />
+        <activity
+            android:name=".splash"
+            android:exported="false">
+        </activity>
+        <activity
+            android:name=".home"
+            android:exported="true" />
+    </application>
+
+</manifest>

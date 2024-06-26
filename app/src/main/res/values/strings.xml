@@ -1,0 +1,92 @@
+
+<resources>
+    <string name="app_name">Fitify</string>
+    <string name="welcome">Welcome</string>
+    <string name="fitness_app">Fitify</string>
+    <string name="fitness_app_before_18">Fitify (before 18)</string>
+    <string name="fitness_app_after_18">Fitify (after 18)</string>
+    <string name="before_18">Before Age 18</string>
+    <string name="after_18">After Age 18</string>
+    <string name="days_60">Days 60</string>
+    <string name="every">Every day 10 min</string>
+    <string name="lunges">Lunges</string>
+    <string name="pushup">Pushups</string>
+    <string name="squats">Squats</string>
+    <string name="dumbbell_rows">Dumbbell rows</string>
+    <string name="Single_leg_deadlifts">Single-leg deadlifts</string>
+    <string name="burpees">Burpees</string>
+    <string name="side_planks">Side planks</string>
+    <string name="planks">Planks</string>
+    <string name="Glute_bridge">Glute bridge</string>
+    <string name="overhead_dumbbell">Overhead Dumbbell</string>
+    <string name="repeat">Repeat 2 time</string>
+    <string name="time">01:00 min</string>
+    <string name="time1">01:00</string>
+    <string name="start">START</string>
+    <string name="benifit">Benifits:-</string>
+    <string name="lungetext">
+        Lunges are a powerful lower body exercise that target the quadriceps,
+        hamstrings, glutes, and calves. They improve core stability, balance,
+        and joint flexibility. Lunges also enhance functional fitness by mimicking
+        everyday movements, reducing injury risk. Additionally,they boost metabolism
+        and provide cardiovascular benefits when done in high-intensity workouts.
+    </string>
+    <string name="pushuptext">
+        Pushups are an effective upper body exercise that target the chest, shoulders,
+        triceps, and core muscles. They improve strength, endurance, and stability. Pushups
+        also enhance functional fitness by mimicking daily pushing movements. Additionally,
+        they can be easily modified for varying fitness levels, making them versatile and accessible.
+    </string>
+    <string name="squatstext">
+        Squats are a fundamental lower body exercise that targets the quadriceps, hamstrings,
+        glutes, and calves. They improve strength, stability, and mobility. Squats also enhance
+        functional fitness by mimicking daily movements like sitting and lifting. Additionally,
+        they boost metabolism, support joint health, and can be adapted for all fitness levels.
+    </string>
+    <string name="dumblesrowtext">
+        Dumbbell rows are an effective upper body exercise that target the back, shoulders, and biceps.
+        They improve strength, posture, and stability. This exercise also enhances functional fitness by
+        mimicking pulling movements used in daily activities. Additionally, dumbbell rows can help balance
+        muscle development and reduce the risk of injury.
+    </string>
+    <string name="singlelegtext">
+       Single leg deadlifts are a powerful exercise that target the hamstrings, glutes, and lower back.
+        They improve balance, stability, and core strength. By engaging multiple muscle groups, this
+        exercise enhances functional fitness and helps prevent injuries. Additionally, single leg
+        deadlifts can correct muscle imbalances and improve overall athletic performance.
+    </string>
+    <string name="burpeestext">
+        Burpees are a full-body exercise that combines squats, push-ups, and jumps.
+        They improve cardiovascular fitness, strength, and endurance. By engaging multiple muscle groups,
+        burpees boost metabolism and aid in weight loss. This high-intensity exercise enhances functional fitness,
+        coordination, and agility, making it an excellent addition to any workout routine.
+    </string>
+    <string name="sideplanktext">
+        Side planks are an effective core exercise that target the obliques, shoulders, and hips.
+        They improve core strength, stability, and balance. By engaging multiple muscle groups,
+        side planks enhance overall body coordination and reduce the risk of injury. Additionally,
+        this exercise promotes better posture and spinal alignment.
+    </string>
+    <string name="planktext">
+        Planks are a fundamental core exercise that target the abdominals, back, and shoulders.
+        They improve core strength, stability, and endurance. By engaging multiple muscle groups,
+        planks enhance overall body coordination and balance. This exercise also promotes better posture,
+        reduces the risk of back injuries, and can be easily modified for different fitness levels.
+    </string>
+    <string name="glutetext">
+        Glute bridges are an effective lower body exercise that primarily target the glutes, hamstrings,
+        and lower back. They improve strength, stability, and flexibility in the hips and lower back.
+        By engaging the core muscles, glute bridges enhance overall body stability and can help alleviate
+        lower back pain. Additionally, this exercise promotes better posture and athletic performance,
+        making it a valuable addition to any workout routine.
+    </string>
+    <string name="overheadtext">
+        The overhead dumbbell press is a highly effective upper body exercise that targets the shoulders
+        , triceps, and upper chest. It improves shoulder strength, stability, and overall upper body endurance.
+        By engaging the core, this exercise also enhances balance and posture. The overhead dumbbell press can
+        help build muscle mass, increase shoulder mobility, and improve functional fitness, making it a versatile
+        addition to any workout routine.
+    </string>
+
+
+</resources>
